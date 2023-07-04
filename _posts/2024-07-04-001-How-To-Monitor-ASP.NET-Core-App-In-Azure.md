@@ -1,5 +1,5 @@
 ---
-title: "JNW #001: How do you Monitor Your ASP.NET Core Application In Azure"
+title: "JNW #001: How To Monitor Your ASP.NET Core Application In Azure"
 date: 2023-07-04
 ---
 
